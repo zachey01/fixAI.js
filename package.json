@@ -23,6 +23,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zachey01/fixAI.js.git"
+    "url": "git+https://github.com/zachey01/fixAI.js.git"
   }
 }
