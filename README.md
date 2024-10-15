@@ -4,6 +4,8 @@ FixAI is a lightweight NPM library that automatically fixes code errors by lever
 
 [![NPM Downloads](https://img.shields.io/npm/dt/fixai?color=brightgreen)](https://www.npmjs.com/package/fixai)
 
+https://github.com/user-attachments/assets/8fc77ec4-64ad-4286-a240-d6a34d347db3
+
 ## 📋 Table of Contents
 
 - [FixAI 🚀](#fixai-)
