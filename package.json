@@ -1,0 +1,28 @@
+{
+  "name": "fixai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Zachey",
+  "license": "MIT",
+  "description": "A simple NPM package that leverages ChatGPT 4 (free) for automatic error correction in your code, without needing any API tokens.",
+  "dependencies": {
+    "cli-highlight": "^2.1.11"
+  },
+  "keywords": [
+    "AI",
+    "auto-correct",
+    "ChatGPT",
+    "code-fixing",
+    "error-handling",
+    "developer-tools",
+    "OpenAI",
+    "GPT-4"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zachey01/fixAI.js.git"
+  }
+}
